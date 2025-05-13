@@ -7,7 +7,8 @@ It allows you to convert currencies in real-time and view exchange rate trends f
 
 ## 📸 Preview
 
-![Currency Converter GUI](CurrencyConvertor.PNG)
+![image](https://github.com/user-attachments/assets/869d3310-4a7e-45f0-9226-4a82dc15e064)
+
 
 ---
 
