@@ -7,8 +7,8 @@ It allows you to convert currencies and view the exchange rate chart for the las
 
 ### 🖼️ Preview
 
-> ![Currency Converter GUI](https://your-screenshot-url.png)  
-> *Add a screenshot of your app here after you upload it to GitHub!*
+> ![Currency Converter GUI]![image](https://github.com/user-attachments/assets/e7fa3081-c10f-4adb-ba04-bf7f91366ad9)
+
 
 ---
 
