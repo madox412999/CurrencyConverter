@@ -1,41 +1,42 @@
 # 💱 Currency Converter
 
-A simple and elegant currency converter app built with **Python** and **Tkinter**.  
-It allows you to convert currencies and view the exchange rate chart for the last 7 trading days.
+A sleek and modern currency converter app built with **Python** and **Tkinter**.  
+It allows you to convert currencies in real-time and view exchange rate trends for the last 7 trading days. Ideal for travelers, traders, and developers learning GUI apps.
 
 ---
 
-### 🖼️ Preview
+## 📸 Preview
 
-> ![Currency Converter GUI]![image](https://github.com/user-attachments/assets/e7fa3081-c10f-4adb-ba04-bf7f91366ad9)
-
+![Currency Converter GUI](CurrencyConvertor.PNG)
 
 ---
 
-### ✨ Features
+## 🚀 Features
 
 - Convert any amount between two currencies
-- Real-time exchange rates (using open.er-api & Frankfurter APIs)
-- Exchange rate chart (last 7 business days)
-- Country flags auto-update with currency
-- Light / Dark Mode switch
-- Swap button for quick flipping between currencies
+- Real-time exchange rates (via open.er-api & Frankfurter API)
+- 📈 7-day exchange rate history chart (for supported currencies)
+- Country flags auto-update with selected currency
+- 🌗 Light / Dark Mode switch
+- ⇄ Swap button for fast currency flipping
+- Error handling for invalid input or no internet
 
 ---
 
-### 🔧 Tech Stack
+## 🛠 Tech Stack
 
 - Python
 - Tkinter
 - Requests
-- Pillow (for image handling)
+- Pillow (image handling)
 - Matplotlib
 
 ---
 
-### 🚀 Installation
+## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/CurrencyConverter.git
+git clone https://github.com/madox412999/CurrencyConverter.git
 cd CurrencyConverter
 pip install -r requirements.txt
+python gui_convertor.py
