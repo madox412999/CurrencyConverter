@@ -34,6 +34,15 @@ It allows you to convert currencies in real-time and view exchange rate trends f
 
 ---
 
+## 🚀 Usage
+1. Enter the amount and choose currencies.
+2. Click "Convert" to see the result.
+3. Use the chart button 📊 to view historical exchange rates.
+4. Try Dark Mode 🌙 for a different theme.
+
+
+---
+
 ## ⚙️ Installation
 
 ```bash
@@ -41,3 +50,9 @@ git clone https://github.com/madox412999/CurrencyConverter.git
 cd CurrencyConverter
 pip install -r requirements.txt
 python gui_convertor.py
+
+---
+
+## 🙋‍♂️ Contact
+Created by [@madox412999](https://github.com/madox412999)  
+Telegram: [@Madox41299](https://t.me/Madox41299)
